@@ -27,8 +27,16 @@ Currently working with Python and C++ while gaining practical experience through
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=JaKuBeQ&theme=tokyo-night&hide_border=true"
-    width="85%"
+    width="75%"
     alt="GitHub activity graph"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=JaKuBeQ&theme=transparent&hide_border=true&border_radius=0&short_numbers=true&card_width=350&card_height=70"
+    width="35%"
+    alt="GitHub commits streak"
   />
 </div>
 
